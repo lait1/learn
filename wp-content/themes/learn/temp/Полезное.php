@@ -1,0 +1,1 @@
+<?= get_option('option_name', 'default_value'); ?>
